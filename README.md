@@ -1,7 +1,7 @@
 # personal website
 
 <p align="center">
- <img src="Fig8.tif" width="600"/>
+ <img src="figure8_updated.png" width="600"/>
  </p>
 
  <p align="center">
